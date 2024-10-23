@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme -->
+    <style name="Base.Theme.SignUpSignIn." parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Set the background to white -->
+        <item name="android:windowBackground">@android:color/white</item>
+
+        <!-- Customize the status bar appearance -->
+        <item name="android:statusBarColor">@android:color/black</item>
+        <item name="android:fitsSystemWindows">false</item>
+    </style>
+</resources>
